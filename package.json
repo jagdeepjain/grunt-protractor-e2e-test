@@ -22,8 +22,6 @@
     "grunt-contrib-jshint": "~0.10.0",
     "grunt-contrib-nodeunit": "~0.4.1",
     "grunt-contrib-uglify": "~0.5.0",
-    "grunt-protractor-runner": "^1.1.4",
-    "grunt-protractor-webdriver": "^0.1.8",
     "nexpect": "~0.4.0"
   },
   "bugs": {
@@ -32,8 +30,6 @@
   "directories": {
     "test": "test"
   },
-  "scripts": {
-    "install": "node node_modules/protractor/bin/webdriver-manager update"
-  },
+  
   "license": "MIT"
 }

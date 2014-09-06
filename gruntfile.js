@@ -1,9 +1,6 @@
 
 module.exports = function(grunt) {
 
-
-    grunt.loadNpmTasks('grunt-protractor-runner');
-
     grunt.initConfig({
         protractor: {
             options: {
