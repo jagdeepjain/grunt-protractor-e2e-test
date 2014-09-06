@@ -48,4 +48,3 @@ Done, without errors.
 ToDo
 ====
 Adding API for page object access
->>>>>>> 295cbcf5f4d10436357350ac554dbc2808a050dd
