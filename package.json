@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "name": "grunt-protractor-e2e-test",
-  "description": "sample code for ui automation using protractor and grunt/npm",
+  "description": "sample code for browser testing using protractor and grunt",
   "keywords": [
     "testing",
     "protractor"
@@ -11,7 +11,7 @@
   "author": "Jagdeep Jain <jagdeep.jain@gmail.com> (http://www.jagdeepjain.net/blog)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jagdeepjain/grunt-protractor-webdriver"
+    "url": "https://github.com/jagdeepjain/grunt-protractor-test-e2e"
   },
   "main": "Gruntfile.js",
   "dependencies": {
@@ -27,7 +27,7 @@
     "nexpect": "~0.4.0"
   },
   "bugs": {
-    "url": "https://github.com/jagdeepjain/grunt-protractor-webdriver/issues"
+    "url": "https://github.com/jagdeepjain/grunt-protractor-test-e2e/issues"
   },
   "directories": {
     "test": "test"
