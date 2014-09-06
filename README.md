@@ -1,9 +1,5 @@
-grunt-protractor-webdriver
-==========================
-
-<<<<<<< HEAD
-UI automation using grunt protractor and webdriver for applications developed in angularJS
-=======
+grunt-protractor-e2e-test
+=========================
 Sample code for starting up browser testing using protractor and grunt.
 
 pre-requisite
