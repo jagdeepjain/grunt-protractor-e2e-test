@@ -19,10 +19,12 @@
   },
   "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-jshint": "^0.10.0",
     "grunt-contrib-nodeunit": "~0.4.1",
     "grunt-contrib-uglify": "~0.5.0",
-    "nexpect": "~0.4.0"
+    "grunt-protractor-runner": "^3.0.0",
+    "nexpect": "~0.4.0",
+    "protractor": "^1.8.0"
   },
   "bugs": {
     "url": "https://github.com/jagdeepjain/grunt-protractor-test-e2e/issues"
@@ -30,6 +32,5 @@
   "directories": {
     "test": "test"
   },
-  
   "license": "MIT"
 }
