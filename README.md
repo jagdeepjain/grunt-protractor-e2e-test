@@ -4,11 +4,16 @@ Sample code for starting up browser testing using protractor and grunt.
 
 pre-requisite
 =============
-For running protractor tests, we need to install protractor:
+For running protractor tests, we need to install grunt-cli and protractor:
+
+```
+npm install grunt-cli
+```
+
 ```
 npm install protractor
 ```
-once protractor is installed, navigate to node_modules/protractor/bin you will see webdriver-manager, execute
+once these are installed, navigate to node_modules/protractor/bin you will see webdriver-manager, execute
 ```
 webdriver-manager update
 ```
