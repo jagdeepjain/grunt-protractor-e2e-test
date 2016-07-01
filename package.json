@@ -14,9 +14,6 @@
     "url": "https://github.com/jagdeepjain/grunt-protractor-test-e2e"
   },
   "main": "Gruntfile.js",
-  "dependencies": {
-    "protractor": "^1.2.0"
-  },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-jshint": "^0.10.0",
@@ -24,7 +21,7 @@
     "grunt-contrib-uglify": "~0.5.0",
     "grunt-protractor-runner": "^3.0.0",
     "nexpect": "~0.4.0",
-    "protractor": "^1.8.0",
+    "protractor": "^3.3.0",
     "selenium-webdriver": "^2.48.2",
     "webdriver-manager": "^8.0.0"
   },
