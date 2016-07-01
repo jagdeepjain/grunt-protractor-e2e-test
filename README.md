@@ -7,7 +7,7 @@ pre-requisite
 For running protractor tests, we need to install grunt-cli and protractor:
 
 ```
-npm install grunt-cli
+npm install -g grunt-cli
 ```
 
 ```
@@ -30,7 +30,9 @@ webdriver-manager start
 
 Now we can run test:
 
+```
 grunt test:e2e
+```
 
 Chrome browser will launch and test will execute.
 
